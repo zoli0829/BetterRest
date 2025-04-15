@@ -76,7 +76,7 @@ struct ContentView: View {
                         .font(.headline)
                 }
                     .frame(maxWidth: .infinity)
-                    .padding(.vertical)
+                    .padding(.vertical) 
             }
             .navigationTitle("BetterRest")
         }
